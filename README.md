@@ -84,7 +84,7 @@ I'm a Growth & Marketing professional passionate about solving real business pro
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachin-Ramesh-dev&show_icons=true&theme=transparent&hide_border=true" alt="Sachin's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachin-Ramesh-dev&show_icons=true&theme=transparent&hide_border=true&v=1" alt="Sachin's GitHub stats" />
 </div>
 
 <br />
@@ -96,15 +96,15 @@ I'm a Growth & Marketing professional passionate about solving real business pro
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Ramesh-dev&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Ramesh-dev&layout=compact&theme=transparent&hide_border=true&v=1" alt="Top Langs" />
 </div>
 
 ---
 ## 🐍 My Contribution Graph
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachin-Ramesh-dev/Sachin-Ramesh-dev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachin-Ramesh-dev/Sachin-Ramesh-dev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sachin-Ramesh-dev/Sachin-Ramesh-dev/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachin-Ramesh-dev/Sachin-Ramesh-dev/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachin-Ramesh-dev/Sachin-Ramesh-dev/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sachin-Ramesh-dev/Sachin-Ramesh-dev/output/github-contribution-grid-snake.svg?v=1">
   </picture>
 </div>
