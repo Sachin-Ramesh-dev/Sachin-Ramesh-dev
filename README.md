@@ -84,12 +84,6 @@ I'm a Growth & Marketing professional passionate about solving real business pro
 ## 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=Sachin-Ramesh-dev&show_icons=true&theme=transparent&hide_border=true" alt="Sachin's GitHub stats" />
-</div>
-
-<br />
-
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=Sachin-Ramesh-dev&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </div>
 
