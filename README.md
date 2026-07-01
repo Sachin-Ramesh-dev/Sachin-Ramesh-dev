@@ -84,27 +84,26 @@ I'm a Growth & Marketing professional passionate about solving real business pro
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachin-Ramesh-dev&show_icons=true&theme=transparent&hide_border=true&v=1" alt="Sachin's GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=Sachin-Ramesh-dev&show_icons=true&theme=transparent&hide_border=true" alt="Sachin's GitHub stats" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sachin-Ramesh-dev&theme=transparent&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Sachin-Ramesh-dev&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Ramesh-dev&layout=compact&theme=transparent&hide_border=true&v=1" alt="Top Langs" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sachin-Ramesh-dev&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
 </div>
 
----
-## 🐍 My Contribution Graph
+🐍 My Contribution Graph
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachin-Ramesh-dev/Sachin-Ramesh-dev/output/github-contribution-grid-snake-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachin-Ramesh-dev/Sachin-Ramesh-dev/output/github-contribution-grid-snake.svg?v=1">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sachin-Ramesh-dev/Sachin-Ramesh-dev/output/github-contribution-grid-snake.svg?v=1">
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sachin-Ramesh-dev/Sachin-Ramesh-dev/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/Sachin-Ramesh-dev/Sachin-Ramesh-dev/blob/output/github-contribution-grid-snake.svg?raw=true">
+<img alt="github contribution grid snake animation" src="https://github.com/Sachin-Ramesh-dev/Sachin-Ramesh-dev/blob/output/github-contribution-grid-snake.svg?raw=true">
+</picture>
 </div>
