@@ -76,7 +76,7 @@ I'm a Growth & Marketing professional passionate about solving real business pro
 ## 🏆 GitHub Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sachin-Ramesh-dev&theme=transparent&no-frame=true&no-bg=true&margin-w=15" alt="Sachin's Trophies" />
+    <img src="https://trophy.ryglcloud.net/?username=Sachin-Ramesh-dev&theme=transparent&no-frame=true&no-bg=true&margin-w=15" alt="Sachin's Trophies" />
   </a>
 </div>
 
