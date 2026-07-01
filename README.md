@@ -18,7 +18,7 @@
 ---
 
 ## 🧑‍💼 About Me
-I'm a Growth & Marketing professional passionate about solving real business problems with technology. I specialize in driving digital marketing, automation, and analytics at an enterprise scale, while also building products people actually use. Alongside my professional career, I'm pursuing a Bachelor's in Computer Applications (BCA) to strengthen my technical foundations.
+I'm a Growth & Marketing professional passionate about solving real business problems with technology. I specialize in driving digital marketing, automation, and analytics at an enterprise scale, while also building products people actually use.
 
 ---
 
@@ -73,7 +73,14 @@ I'm a Growth & Marketing professional passionate about solving real business pro
 > *"Keep learning. Keep building. Keep improving."*
 
 ---
+## 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sachin-Ramesh-dev&theme=transparent&no-frame=true&no-bg=true&margin-w=15" alt="Sachin's Trophies" />
+  </a>
+</div>
 
+---
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -90,4 +97,10 @@ I'm a Growth & Marketing professional passionate about solving real business pro
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Ramesh-dev&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
+</div>
+
+---
+## 🐍 My Contribution Graph
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sachin-Ramesh-dev/Sachin-Ramesh-dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
