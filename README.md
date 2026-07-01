@@ -1,6 +1,19 @@
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sachin-Ramesh-dev&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
 # Hi 👋 I'm Sachin Ramesh
 
-🚀 **Growth & Analytics Professional | Senior Unit Manager – Digital Platforms & Consumer AI** 📍 Bengaluru, India  
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=false&vCenter=true&width=600&lines=Digital+Analytics+%7C+AI+%7C+Automation;Enterprise+GA4+%7C+Power+Platform;📍+Bengaluru,+India" alt="Typing SVG" />
+  </a>
+</div>
+
+![GA4](https://img.shields.io/badge/GA4-Analytics-orange?style=flat-square)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-PowerPlatform-blue?style=flat-square)
+![AI](https://img.shields.io/badge/AI-Business-green?style=flat-square)
 
 ---
 
@@ -9,48 +22,51 @@ I'm a Growth & Marketing professional passionate about solving real business pro
 
 ---
 
-## 🚀 What I'm Working On
-- 🛍️ Building **Snacc Mart** — an online snacks brand!
-- 📊 Leading **Digital Analytics, AI adoption & Automation** (GA4, UTM Tracking, Social Commerce)
-- ⚙️ Building automated workflows using **Power Platform, n8n, and Python**
-- 🌐 Developing e-commerce solutions via WordPress & Zoho Commerce
-- ☁️ Exploring Google Cloud Platform and improving my full-stack skills
+## 📊 Business Impact
+- 📉 Reduced data discrepancies to **<8%** through tracking improvements
+- 🌐 Built a centralized **GA4 framework** for enterprise social platforms
+- 📈 Delivered **6+ dashboards annually** to empower business teams with data
+- ⚡ Automated reporting workflows, reducing manual effort significantly
 
 ---
 
-## 💼 Core Expertise
-- **Growth & Marketing:** Performance Marketing, SEO/SEM, Revenue Growth, Digital Strategy
-- **Analytics:** GA4, Google Tag Manager, Social Commerce Tracking, Marketing Analytics
-- **Data & Visualization:** Power BI, Looker Studio, Excel, SQL
-- **Automation & Cloud:** Power Platform, n8n, GCP, Docker, Git
+## 🚀 What I'm Working On
+- 🛍️ Building **Snacc Mart** — an online snacks brand!
+- ⚙️ Building automated workflows using **Power Platform, n8n, and Python**
+- ☁️ Exploring Google Cloud Platform and improving my full-stack skills
+- 🌐 Developing e-commerce solutions via WordPress & Zoho Commerce
+
+---
+
+## 📌 Featured Work
+*(Repositories coming soon!)*
+- 🛠️ **UTM Builder (Power Apps):** Automated tracking link generation.
+- 📊 **Social Media Analytics Dashboard:** Centralized performance tracking.
+- 🧠 **GA4 Tracking Framework:** Standardized data collection across properties.
 
 ---
 
 ## 🛠️ Tech Stack
-
-**Languages & Frameworks:** Python, Java, SQL, HTML, CSS, JavaScript (Learning)  
-**Tools:** VS Code, Postman, GitHub, WordPress, Zoho Commerce  
-
----
-
-## 🌱 Currently Learning & Goals
-- **Learning:** Data Structures & Algorithms, Backend Development, System Design, Cloud Computing, AI
-- **Goals:** Become a strong software engineer, create scalable enterprise automation systems, and grow Snacc Mart into a trusted brand.
-
----
-
-## 📌 Featured Projects
-- ✅ UTM Tracking Framework & GA4 Centralized Setup
-- ✅ E-commerce Deployments & Social Commerce Analytics
-- ✅ Automated Reporting & Marketing Automation Playbooks
-- ✅ Python Utilities & Cloud Deployments
+- **Core:** Python, Java, SQL, HTML, CSS, JavaScript (Learning)  
+- **Analytics & Data:** GA4, GTM, Power BI, Looker Studio, Excel  
+- **Automation & Cloud:** Power Platform, n8n, GCP, Docker, Git  
+- **Tools:** VS Code, Postman, GitHub, WordPress, Zoho Commerce  
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [in/sachinramesh](https://www.linkedin.com/in/sachinramesh/)
-- 📧 Work Email: [sachin.ramesh@bajajfinserv.in](mailto:sachin.ramesh@bajajfinserv.in)
-- 📩 Personal Email: [sachinjayanth420@gmail.com](mailto:sachinjayanth420@gmail.com)
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/sachinramesh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sachin.ramesh@bajajfinserv.in">
+    <img src="https://img.shields.io/badge/Work_Email-005571?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Work Email" />
+  </a>
+  <a href="mailto:sachinjayanth420@gmail.com">
+    <img src="https://img.shields.io/badge/Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email" />
+  </a>
+</div>
 
 ---
 
@@ -59,18 +75,19 @@ I'm a Growth & Marketing professional passionate about solving real business pro
 ---
 
 ## 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachin-Ramesh-dev&show_icons=true" alt="Sachin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachin-Ramesh-dev&show_icons=true&theme=transparent&hide_border=true" alt="Sachin's GitHub stats" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sachin-Ramesh-dev" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sachin-Ramesh-dev&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Ramesh-dev&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Ramesh-dev&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
 </div>
