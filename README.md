@@ -102,5 +102,8 @@ I'm a Growth & Marketing professional passionate about solving real business pro
 ---
 ## 🐍 My Contribution Graph
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sachin-Ramesh-dev/Sachin-Ramesh-dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sachin-Ramesh-dev/Sachin-Ramesh-dev/raw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sachin-Ramesh-dev/Sachin-Ramesh-dev/raw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Sachin-Ramesh-dev/Sachin-Ramesh-dev/raw/output/github-contribution-grid-snake.svg">
+</picture></div>
